@@ -3,7 +3,7 @@
 ### 🌱 自我介绍 
 我是福州大学（FZU)数据科学与大数据学院的一名学生,专注于数据挖掘研究的软件开发和数据采集技术，我对开发充满热情。
 ### 👨‍💻 专业背景
-我学习过c，java，python的编程语言，熟练掌握 Spring Boot 和 MyBatis Plus 这些框架，学会运用spark，hive等处理数据，参与过项目“picma”app的开发
+我学习过c，java，python的编程语言，熟练掌握 Spring Boot 和 MyBatis Plus 这些框架，学会运用spark，hadoop，mapreduce，hive等处理数据，参与过项目“picma”app的开发
 ### ⚡ 学习方向
 我对数据分析处理以及软件开发有比较大的兴趣，这是我近期的学习方向
 ### 👥 兴趣爱好
